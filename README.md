@@ -1,0 +1,1 @@
+Just a simple project where you can track your weight lifting progress and step count.
