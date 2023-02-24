@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.weightliftr'
+    namespace 'com.sandeepbasandrai.weightliftr'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.weightliftr"
+        applicationId "com.sandeepbasandrai.weightliftr"
         minSdk 24
         targetSdk 33
         versionCode 1
